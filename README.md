@@ -5,4 +5,4 @@ This is the Github containing all the necessary information for the Bioinformati
  2. The bioinformatics lecture slides
  3. The datasets and notebooks for each practical session, labeled accordingly.
 
-To use a notebook, use the 'Open in Colab' button at the top, then use File -> Save a copy in Drive to create your own copy where the changes will be saved. 
+To use a notebook, click on the SessionN.ipynb file, then use the 'Open in Colab' button at the top, then use File -> Save a copy in Drive to create your own copy where the changes will be saved. 
