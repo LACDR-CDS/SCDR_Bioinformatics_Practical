@@ -1,5 +1,0 @@
-sample_id,day,replicate,stage,cell_line,condition
-day32_rep1_wt,32,1,cardiomyocyte ,hiPSC,isogenic wildtype
-day32_rep2_wt,32,2,cardiomyocyte ,hiPSC,isogenic wildtype
-day32_rep1_mut,32,1,cardiomyocyte ,hiPSC,missense mutation
-day32_rep2_mut,32,2,cardiomyocyte ,hiPSC,missense mutation
