@@ -1,0 +1,5 @@
+sample_id,day,replicate,stage,cell_line,condition
+day15_rep1_wt,15,1,cardiomyocyte ,hiPSC,isogenic wildtype
+day15_rep2_wt,15,2,cardiomyocyte ,hiPSC,isogenic wildtype
+day15_rep1_mut,15,1,cardiomyocyte ,hiPSC,missense mutation
+day15_rep2_mut,15,2,cardiomyocyte ,hiPSC,missense mutation
